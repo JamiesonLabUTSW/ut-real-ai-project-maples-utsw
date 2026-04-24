@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+    <title>UT-REAL</title>
+    <defs>
+        <linearGradient id="outer-ring" x1="18" y1="14" x2="110" y2="114" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#d8741f" />
+            <stop offset="1" stop-color="#bf5700" />
+        </linearGradient>
+        <linearGradient id="inner-field" x1="30" y1="22" x2="98" y2="104" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#0c3f72" />
+            <stop offset="1" stop-color="#003767" />
+        </linearGradient>
+    </defs>
+
+    <circle cx="64" cy="64" r="60" fill="url(#outer-ring)" />
+    <circle cx="64" cy="64" r="50" fill="none" stroke="#ffffff" stroke-opacity="0.28" stroke-width="4" />
+    <circle cx="64" cy="64" r="44" fill="url(#inner-field)" />
+
+    <path
+        d="M34 34h13v28c0 9 7 16 17 16s17-7 17-16V34h13v28c0 16-13 29-30 29S34 78 34 62V34Z"
+        fill="#ffffff"
+    />
+    <path d="M42 28h44v11H70v33H58V39H42V28Z" fill="#bf5700" />
+</svg>
