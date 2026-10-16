@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="880" viewBox="0 0 1440 880" role="img" aria-labelledby="workflow-title workflow-description">
+<title id="workflow-title">Conceptual architecture: capture, assess, review</title>
+<desc id="workflow-description">Illustrative proposed workflow: device and edge capture supplies recordings, transcripts, and annotations to institutional OASIS assessment for rubric scoring and supporting evidence. OASIS produces an evidence-linked assessment for human review. Optional cloud model assistance exchanges requests and responses with OASIS across a boundary labeled permitted information only.</desc>
+<defs>
+  <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1c2d"/><stop offset="1" stop-color="#07121e"/></linearGradient>
+  <marker id="arrow-orange" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M2 2 10 6 2 10" fill="none" stroke="#fb923c" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></marker>
+  <marker id="arrow-blue" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M2 2 10 6 2 10" fill="none" stroke="#7db8f3" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></marker>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; }
+    .heading { fill: #f6f8fb; font-weight: 700; }
+    .body { fill: #c7d5e3; }
+    .note { fill: #9fb3c5; }
+    .orange { fill: #fb923c; }
+    .arrow { fill: none; stroke: #fb923c; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrow-orange); }
+    .return { fill: none; stroke: #7db8f3; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrow-blue); }
+  </style>
+</defs>
+<rect width="1440" height="880" rx="28" fill="url(#canvas)"/>
+
+<rect x="48" y="36" width="400" height="44" rx="22" fill="#fb923c" fill-opacity="0.12" stroke="#fb923c" stroke-opacity="0.4"/>
+<text x="70" y="65" font-size="22" font-weight="700" letter-spacing="1" class="orange">CONCEPTUAL ARCHITECTURE</text>
+<text x="48" y="137" font-size="44" class="heading">Capture, assess, review</text>
+<text x="48" y="172" font-size="27" class="body">A proposed workflow for AI-assisted assessment</text>
+<rect x="32" y="205" width="950" height="568" rx="26" fill="#10263a" fill-opacity="0.62" stroke="#2d455b" stroke-width="2"/>
+<text x="64" y="249" font-size="22" font-weight="700" letter-spacing="1.5" class="note">INSTITUTIONAL WORKFLOW</text>
+<rect x="64" y="294" width="290" height="292" rx="20" fill="#142d43" stroke="#36546d" stroke-width="2"/>
+<text x="94" y="343" font-size="32" class="heading">Device / edge</text>
+<text x="94" y="382" font-size="32" class="heading">capture</text>
+<circle cx="99" cy="432" r="4" fill="#fb923c"/><text x="117" y="441" font-size="28" class="body">Recordings</text>
+<circle cx="99" cy="480" r="4" fill="#fb923c"/><text x="117" y="489" font-size="28" class="body">Transcripts</text>
+<circle cx="99" cy="528" r="4" fill="#fb923c"/><text x="117" y="537" font-size="28" class="body">Annotations</text>
+<path d="M354 440 H432" class="arrow"/>
+<rect x="438" y="294" width="480" height="292" rx="20" fill="#15344e" stroke="#6da8dd" stroke-width="2"/>
+<text x="470" y="352" font-size="36" class="heading">OASIS assessment</text>
+<text x="470" y="421" font-size="30" class="body">Rubric scoring</text>
+<text x="470" y="470" font-size="30" class="body">Supporting evidence</text>
+<path d="M470 504 H886" stroke="#36546d" stroke-width="2"/>
+<text x="470" y="548" font-size="28" class="note">Assessment assembly</text>
+<path d="M678 586 V630" class="arrow"/>
+<rect x="438" y="636" width="480" height="112" rx="18" fill="#2c2825" stroke="#c1743d" stroke-width="2"/>
+<text x="468" y="681" font-size="30" class="heading">Evidence-linked assessment</text>
+<text x="468" y="723" font-size="29" class="orange">Human review</text>
+<path d="M1030 296 V768" fill="none" stroke="#7d92a6" stroke-width="2" stroke-dasharray="8 9"/>
+<text x="1100" y="243" text-anchor="middle" font-size="26" font-weight="700" class="body">Permitted</text>
+<text x="1100" y="275" text-anchor="middle" font-size="26" font-weight="700" class="body">information only</text>
+<rect x="1090" y="336" width="310" height="244" rx="20" fill="#14283a" stroke="#58738d" stroke-width="2"/>
+<text x="1118" y="391" font-size="32" class="heading">Optional cloud</text>
+<text x="1118" y="433" font-size="32" class="heading">assistance</text>
+<text x="1118" y="517" font-size="28" class="body">When needed</text>
+<path d="M918 386 H1084" class="arrow"/>
+<path d="M1090 484 H924" class="return"/>
+<text x="48" y="826" font-size="24" class="body">Adapted from Michael Holcomb’s symposium presentation draft, slide 8.</text>
+<text x="48" y="859" font-size="23" class="note">Illustrative workflow · proposed architecture</text>
+</svg>
