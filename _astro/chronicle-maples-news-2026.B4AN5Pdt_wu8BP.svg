@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" fill="none">
+  <title>MAPLES in the news</title>
+  <desc>An original editorial illustration of a newspaper, representing Houston Chronicle coverage of MAPLES and UT-REAL.</desc>
+  <rect width="1200" height="675" rx="24" fill="#101B2B"/>
+  <path d="M0 570H1200M660 0V675" stroke="#26364C"/>
+  <circle cx="1096" cy="78" r="224" stroke="#26364C"/>
+  <circle cx="1096" cy="78" r="164" stroke="#26364C"/>
+  <rect x="64" y="66" width="8" height="28" rx="4" fill="#F58025"/>
+  <text x="91" y="88" fill="#C0CDDE" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="3">MEDIA COVERAGE</text>
+  <text x="64" y="258" fill="#F7FAFF" font-family="Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-3">MAPLES</text>
+  <text x="64" y="344" fill="#F7FAFF" font-family="Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-3">in the news.</text>
+  <path d="M66 398H142" stroke="#F58025" stroke-width="6" stroke-linecap="round"/>
+  <text x="64" y="482" fill="#B5C5D9" font-family="Arial, sans-serif" font-size="31">Houston Chronicle</text>
+  <rect x="744" y="172" width="342" height="332" rx="18" fill="#0B1421" stroke="#3B4D66" stroke-width="3"/>
+  <path d="M777 143H1042C1052 143 1060 151 1060 161V480C1060 491 1051 500 1040 500H787C776 500 767 491 767 480V153C767 147 771 143 777 143Z" fill="#EAF0F6"/>
+  <rect x="795" y="174" width="120" height="12" rx="6" fill="#BF5700"/>
+  <path d="M795 222H1027M795 240H974" stroke="#23334A" stroke-width="10" stroke-linecap="round"/>
+  <rect x="795" y="270" width="114" height="103" rx="8" fill="#CFDDEB"/>
+  <path d="M817 343L845 310L865 329L885 300" stroke="#52718E" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M933 282H1027M933 305H1027M933 328H1027M933 351H999M795 404H1027M795 428H1027M795 452H958" stroke="#A9B8C8" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="1056" cy="484" r="52" fill="#F58025"/>
+  <path d="M1032 484H1080M1056 460V508" stroke="#101B2B" stroke-width="7" stroke-linecap="round"/>
+  <text x="64" y="627" fill="#91A5BF" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="2">PROJECT MAPLES</text>
+  <text x="1136" y="627" fill="#F58025" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="end" letter-spacing="2">UT-REAL</text>
+</svg>

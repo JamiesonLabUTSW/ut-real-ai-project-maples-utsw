@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" fill="none">
+  <title>Three posters and one talk in Austin</title>
+  <desc>An original illustration of three research posters and a microphone, representing the October 7–8, 2026 UT REAL Health AI Symposium.</desc>
+  <rect width="1200" height="675" rx="24" fill="#101B2B"/>
+  <path d="M0 570H1200M660 0V675" stroke="#26364C"/>
+  <circle cx="1096" cy="78" r="224" stroke="#26364C"/>
+  <circle cx="1096" cy="78" r="164" stroke="#26364C"/>
+  <rect x="64" y="66" width="8" height="28" rx="4" fill="#F58025"/>
+  <text x="91" y="88" fill="#C0CDDE" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="3">AUSTIN · OCTOBER 2026</text>
+  <text x="64" y="258" fill="#F7FAFF" font-family="Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="-3">3 posters.</text>
+  <text x="64" y="352" fill="#F7FAFF" font-family="Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="-3">1 talk.</text>
+  <path d="M66 406H142" stroke="#F58025" stroke-width="6" stroke-linecap="round"/>
+  <text x="64" y="482" fill="#B5C5D9" font-family="Arial, sans-serif" font-size="31">UT REAL Health AI Symposium</text>
+  <rect x="717" y="204" width="132" height="205" rx="12" transform="rotate(-12 717 204)" fill="#9AAFC4"/>
+  <rect x="832" y="150" width="132" height="205" rx="12" transform="rotate(12 832 150)" fill="#BBCAD9"/>
+  <rect x="765" y="178" width="144" height="221" rx="12" fill="#EAF0F6"/>
+  <rect x="784" y="202" width="106" height="9" rx="4.5" fill="#BF5700"/>
+  <path d="M784 231H890M784 247H859" stroke="#A0B3C7" stroke-width="5" stroke-linecap="round"/>
+  <rect x="784" y="270" width="47" height="54" rx="4" fill="#CBD9E6"/>
+  <path d="M844 274H890M844 290H890M844 306H879M784 347H890M784 363H869" stroke="#A0B3C7" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="1008" cy="407" r="109" fill="#101B2B" stroke="#3B4D66" stroke-width="2"/>
+  <rect x="984" y="339" width="48" height="86" rx="24" fill="#F58025"/>
+  <path d="M968 396V407C968 430 986 448 1008 448C1030 448 1048 430 1048 407V396M1008 448V479M983 479H1033" stroke="#F7FAFF" stroke-width="6" stroke-linecap="round"/>
+  <text x="64" y="627" fill="#91A5BF" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="2">PROJECT MAPLES</text>
+  <text x="1136" y="627" fill="#F58025" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="end" letter-spacing="2">UT-REAL</text>
+</svg>

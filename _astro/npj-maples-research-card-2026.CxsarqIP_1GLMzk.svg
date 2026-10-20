@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" fill="none">
+  <title>MAPLES research in practice</title>
+  <desc>An original illustration of assessment evidence flowing through AI scoring to human review, accompanying the npj Digital Medicine research feature.</desc>
+  <rect width="1200" height="675" rx="24" fill="#101B2B"/>
+  <path d="M0 570H1200M660 0V675" stroke="#26364C"/>
+  <circle cx="1096" cy="78" r="224" stroke="#26364C"/>
+  <circle cx="1096" cy="78" r="164" stroke="#26364C"/>
+  <rect x="64" y="66" width="8" height="28" rx="4" fill="#F58025"/>
+  <text x="91" y="88" fill="#C0CDDE" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="3">PUBLISHED RESEARCH</text>
+  <text x="64" y="258" fill="#F7FAFF" font-family="Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-3">Research</text>
+  <text x="64" y="344" fill="#F7FAFF" font-family="Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-3">in practice.</text>
+  <path d="M66 398H142" stroke="#F58025" stroke-width="6" stroke-linecap="round"/>
+  <text x="64" y="482" fill="#B5C5D9" font-family="Arial, sans-serif" font-size="31">npj Digital Medicine</text>
+  <path d="M794 244H842C859 244 872 257 872 274V321M794 398H842C859 398 872 385 872 368V321M872 321H939" stroke="#587592" stroke-width="4" stroke-linecap="round"/>
+  <rect x="714" y="166" width="116" height="152" rx="13" fill="#EAF0F6"/>
+  <rect x="736" y="191" width="47" height="8" rx="4" fill="#BF5700"/>
+  <path d="M736 221H808M736 242H808M736 263H787M736 284H799" stroke="#9AAFC4" stroke-width="6" stroke-linecap="round"/>
+  <rect x="714" y="350" width="116" height="96" rx="13" fill="#1D354B" stroke="#587592" stroke-width="2"/>
+  <path d="M741 398V388M756 411V376M772 418V370M788 407V382M803 399V390" stroke="#9BC5D5" stroke-width="6" stroke-linecap="round"/>
+  <rect x="908" y="244" width="144" height="154" rx="25" fill="#1A2A3E" stroke="#F58025" stroke-width="3"/>
+  <rect x="946" y="283" width="68" height="68" rx="12" fill="#F58025"/>
+  <path d="M960 269V280M980 269V280M1000 269V280M960 354V365M980 354V365M1000 354V365M932 298H943M932 318H943M932 338H943M1017 298H1028M1017 318H1028M1017 338H1028" stroke="#F58025" stroke-width="4" stroke-linecap="round"/>
+  <path d="M961 319L974 332L1001 305" stroke="#101B2B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M980 400V432" stroke="#587592" stroke-width="4" stroke-linecap="round"/>
+  <rect x="889" y="434" width="182" height="64" rx="32" fill="#DCEBE6"/>
+  <circle cx="921" cy="461" r="8" fill="#315B56"/>
+  <path d="M908 481C908 473 914 470 921 470C928 470 934 473 934 481" stroke="#315B56" stroke-width="4" stroke-linecap="round"/>
+  <path d="M950 467H1047" stroke="#6A8E84" stroke-width="6" stroke-linecap="round"/>
+  <text x="64" y="627" fill="#91A5BF" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="2">PROJECT MAPLES</text>
+  <text x="1136" y="627" fill="#F58025" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="end" letter-spacing="2">UT-REAL</text>
+</svg>
